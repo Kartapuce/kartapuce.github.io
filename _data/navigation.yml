@@ -13,14 +13,3 @@ protocols:
     children:
       - title: "openVPN"
         url: /protocols/openVPN
-      - title: "mTLS"
-        url: protocols/mTLS
-      - title: "NTLM and Kerberos"
-        url: /protocols/ntlm
-      - title: "OAuth"
-        url: /protocols/OAuth
-      - title: "openID Connect"
-        url: protocols/openID
-      - title: "SAML"
-        url: /protocols/saml
-
