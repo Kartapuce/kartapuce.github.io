@@ -13,3 +13,9 @@ protocols:
     children:
       - title: "openVPN"
         url: /protocols/openVPN
+        
+architecture:
+  - title: Architecture topics
+    children:
+      - title: "Secure internet gateway"
+        url: /architecture/secure internet gateway
