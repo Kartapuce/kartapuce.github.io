@@ -14,7 +14,9 @@ protocols:
       - title: "OpenVPN"
         url: /protocols/openVPN
       - title: "OpenID Connect"
-        url: /protocols/openID connect  
+        url: /protocols/openID connect
+      - title: "OAuth 2.0"
+        url: /protocols/oAuth2  
         
 architecture:
   - title: Architecture topics
