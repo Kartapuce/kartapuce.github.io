@@ -11,8 +11,10 @@ main:
 protocols:
   - title: List of protocols
     children:
-      - title: "openVPN"
+      - title: "OpenVPN"
         url: /protocols/openVPN
+      - title: "OpenID Connect"
+        url: /protocols/openID connect  
         
 architecture:
   - title: Architecture topics
