@@ -16,7 +16,9 @@ protocols:
       - title: "OpenID Connect"
         url: /protocols/openID connect
       - title: "OAuth 2.0"
-        url: /protocols/oAuth2  
+        url: /protocols/oAuth2
+      - title: "SAML 2.0"
+        url: /protocols/saml
         
 architecture:
   - title: Architecture topics
