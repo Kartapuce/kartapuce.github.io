@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 title: "SAML 2.0"
-excerpt: "Federated identities with Security Assertion Markup Language"
+excerpt: "Federated identities with Security Assertion Markup Language."
 sidebar:
   nav: "protocols"
 header:

@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 title: "OpenID Connect"
-excerpt: "The magic of OpenID Connect"
+excerpt: "The magic of OpenID Connect."
 sidebar:
   nav: "protocols"
 header:

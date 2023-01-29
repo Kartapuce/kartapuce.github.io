@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 title: "OAuth 2.0"
-excerpt: "Delegated identities with Open Authorization 2.0"
+excerpt: "Delegated identities with Open Authorization 2.0."
 sidebar:
   nav: "protocols"
 header:

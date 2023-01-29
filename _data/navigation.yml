@@ -25,6 +25,8 @@ architecture:
     children:
       - title: "Secure internet gateway"
         url: /architecture/secure internet gateway
+      - title: "Secure Access Service Edge"
+        url: /architecture/sase
         
 vulnerabilities:
   - title: Major vulnerabilities
