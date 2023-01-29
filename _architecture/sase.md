@@ -21,5 +21,5 @@ gallery1:
 **Note:** A Wide Area Network (WAN) connects Local Area Networks (LANs) across long distances. In order to speed up connections, many companies use specific **Multi Protocol Label Switching (MPLS)** hardware instead of classic routing.
 {: .notice--warning}
 
-**Note:** Based on original learning material from [ANSSI](https://www.ssi.gouv.fr/) documentation *Recommandations relatives à l'interconnexion d'un système d'information à internet*.
+**Note:** Based on original learning material from [Cloudflare](https://www.cloudflare.com/learning) engineers.
 {: .notice--info}

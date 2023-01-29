@@ -27,6 +27,8 @@ architecture:
         url: /architecture/secure internet gateway
       - title: "Secure Access Service Edge"
         url: /architecture/sase
+      - title: "Domain Name System"
+        url: /architecture/secure dns infrastructure
         
 vulnerabilities:
   - title: Major vulnerabilities
