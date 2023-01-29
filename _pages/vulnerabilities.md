@@ -10,4 +10,4 @@ sidebar:
   nav: "vulnerabilities"
 ---
 
-Get the global picture about some major CVEs. Find out how the combination of several vulnerabilities can make you root. :partying_face: Please keep this knowledge to achieve better protection of your IT systems.
+Get the global picture about some major CVEs. Find out how the combination of several vulnerabilities can make you root. :innocent: Please keep this knowledge to achieve better protection of your IT systems.
