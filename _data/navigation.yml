@@ -19,3 +19,9 @@ architecture:
     children:
       - title: "Secure internet gateway"
         url: /architecture/secure internet gateway
+        
+vulnerabilities:
+  - title: Major vulnerabilities
+    children:
+      - title: "Cisco AnyConnect"
+        url: /vulnerabilities/cisco anyconnect
