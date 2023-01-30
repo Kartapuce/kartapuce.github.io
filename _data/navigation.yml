@@ -29,6 +29,8 @@ architecture:
         url: /architecture/sase
       - title: "Secure DNS infrastructure"
         url: /architecture/secure dns infrastructure
+      - title: "Secure SMTP infrastructure"
+        url: /architecture/secure smtp infrastructure
         
 vulnerabilities:
   - title: Major vulnerabilities
