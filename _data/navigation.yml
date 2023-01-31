@@ -37,3 +37,5 @@ vulnerabilities:
     children:
       - title: "Cisco AnyConnect"
         url: /vulnerabilities/cisco anyconnect
+      - title: "Web App security risks"
+        url: /vulnerabilities/web
