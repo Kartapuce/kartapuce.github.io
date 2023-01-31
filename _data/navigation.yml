@@ -19,6 +19,8 @@ protocols:
         url: /protocols/oAuth2
       - title: "SAML 2.0"
         url: /protocols/saml
+      - title: "NTLMv2 and Kerberos"
+        url: /protocols/ntlm
         
 architecture:
   - title: Architecture topics
