@@ -33,6 +33,8 @@ architecture:
         url: /architecture/secure dns infrastructure
       - title: "Secure SMTP infrastructure"
         url: /architecture/secure smtp infrastructure
+      - title: "From VPN to ZTNA"
+        url: /architecture/ztna
         
 vulnerabilities:
   - title: Major vulnerabilities
