@@ -9,7 +9,7 @@ header:
   caption: "Photo by Karim Manjra on [Unsplash](https://unsplash.com)"
 excerpt: "Kartapuce contains a compilation of cybersecurity models. It deals with architecture, protocols and vulnerabilities."
 intro: 
-  - excerpt: 'Start browsing, and have fun ! :smile:'
+  - excerpt: 'Start browsing, and have fun! :smile:'
 feature_row:
   - image_path: assets/images/architecture.png
     alt: "placeholder image 1"
