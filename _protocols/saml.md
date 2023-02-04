@@ -16,8 +16,8 @@ gallery1:
 SAML 2.0 is a standardized way to authenticate a user across multiple applications, using the concept of federated identities.
 It includes the followings stakeholders:
 - **The subject** wants to authenticate only once across several applications. It can be a human or a non-human entity such as a software or a server.
-- **The federated applications** rely on the Identity Provider for users’ authentication. They can be hosted by a CSP or internally.
-- **The Identity provider** stores and manages users’ digital identities and authorizations. It is often merged with the **SSO server**, which provides a unified place for users’ to sign in to all the federated applications. If the services responsible for IAM are cloud-hosted as SaaS, they are refered to as *Identity-as-a-service (IDaaS)*.
+- **The federated applications** rely on the Identity Provider for users authentication. They can be hosted by a CSP or internally.
+- **The Identity provider** stores and manages users’ digital identities and authorizations. It is often merged with the **SSO server**, which provides a unified place for users to sign in to all the federated applications. If the services responsible for IAM are cloud-hosted as SaaS, they are refered to as *Identity-as-a-service (IDaaS)*.
 
 ## Use Case
 

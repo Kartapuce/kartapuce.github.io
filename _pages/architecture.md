@@ -10,4 +10,4 @@ sidebar:
   nav: "architecture"
 ---
 
-Deep dive into some famous architecture patterns ! :rocket:
+Deep dive into some famous architecture patterns! :rocket:

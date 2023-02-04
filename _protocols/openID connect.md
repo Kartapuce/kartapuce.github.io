@@ -13,7 +13,7 @@ gallery1:
 ---
 ## Introduction
 
-In order to simplify the access to data, information systems tend to :
+In order to simplify the access to data, information systems tend to:
 - centralize the authentication of users in Identity Providers (such as Facebook Connect),
 - facilitate exchanges of data between applications.
 
@@ -27,11 +27,11 @@ Alicia does not want to manually input her birth date and address within Strava.
 
 Since Alicia is also looking for the recognition of her friends, she wants to make sure that all her trainings are directly relayed by Strava to her Twitter account. Therefore, Alicia wants to delegate to Strava the authorization to publish on her Twitter account on her behalf.
 
-Feel free to translate this mechanism to any use case that makes sense to you !
+Feel free to translate this mechanism to any use case that makes sense to you!
 
 ## OpenID Connect
 
-Let's see how the magic happens with OpenID Connect protocol. Make sure to properly follow the timeline !
+Let's see how the magic happens with OpenID Connect protocol. Make sure to properly follow the timeline!
 For each data exchange, queries are in black, and answer are in red.
 
 {% include gallery id="gallery1" type="center" %}

@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/karim-manjra-unsplash.jpg
   caption: "Photo by Karim Manjra on [Unsplash](https://unsplash.com)"
-excerpt: "Kartapuce is a compilation of cybersecurity modellings. It deals with architecture, protocols and vulnerabilities."
+excerpt: "Kartapuce contains a compilation of cybersecurity models. It deals with architecture, protocols and vulnerabilities."
 intro: 
   - excerpt: 'Start browsing, and have fun ! :smile:'
 feature_row:
@@ -28,7 +28,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/vulnerabilities.png
     title: "Vulnerabilities"
-    excerpt: "Make sure that you don't have these ones ! :sunglasses:"
+    excerpt: "Make sure that you don't have these ones! :sunglasses:"
     url: "vulnerabilities"
     btn_label: "Read More"
     btn_class: "btn--primary"

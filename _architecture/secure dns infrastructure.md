@@ -41,11 +41,11 @@ In this example, let's consider the user Alice. She is a valuable member of Kart
 
 Then Alice learnt so many things, she must ping Bob who is also a member of the internal kartapuce.com domain.
 
-Let's have a look at all the operations that happen under the wood ! :stuck_out_tongue:
+Let's have a look at all the operations that happen under the wood! :stuck_out_tongue:
 
 {% include gallery id="gallery1" type="center" %}
 
-**Disclaimer:** These are obviously not the real architecture and IP addresses for reaching out to the ANSSI !
+**Disclaimer:** These are obviously not the real architecture and IP addresses for reaching out to the ANSSI!
 {: .notice--warning}
 
 **Note:** Based on original learning material from [ANSSI](https://www.ssi.gouv.fr/) documentation *Bonnes pratiques pour l'acquisition et l'exploitation de noms de domaine*.

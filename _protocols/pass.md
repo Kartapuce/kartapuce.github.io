@@ -38,7 +38,7 @@ A lot of different technologies already exist:
 - **TOTP (Time-Based OTP)**: nonce incremented every 30 seconds (Google Authenticator)
 - **HOTP (Hash-based OTP)**: nonce incremented on each pressure (Yubikey)
 - **POTP (Push OTP)**: nonce not even disclosed to the user generated on approval (Boursorama)
-- **SMS**: nonce received on a smartphone. Vulnerable to SIM fraud (it is trivial to copy a SIM card !) and not considered safe.
+- **SMS**: nonce received on a smartphone. Vulnerable to SIM fraud (it is trivial to copy a SIM card!) and not considered safe.
 - **Chip card**: private key securely stored in a physical device, non exportable.
 
 Authentication devices may use different protocols for exchanging information (bluetooth, NFC, USB…).
@@ -56,7 +56,7 @@ A **passwordless authentication** is simply the process of removing the password
 
 ### Password-based authentication
 
-Let's assume that Alice wants to authenticate with her very strong passphrase "*password*" ! :stuck_out_tongue_closed_eyes:
+Let's assume that Alice wants to authenticate with her very strong passphrase "*password*"! :stuck_out_tongue_closed_eyes:
 
 {% include gallery id="gallery1" type="center" %}
 

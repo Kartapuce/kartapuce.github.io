@@ -24,11 +24,11 @@ Cisco AnyConnect contains several executables and dll files, which exchange data
 
 <div class="notice--success" markdown="1">
 **Quick reminder:** Executables and DLL:
-- « .exe » : **Executable files** create a new process when executed,
-- « .dll » : **Dynamic Link Library files** are called by an executable in order to provide re-usable classes and methods.
+- « .exe »: **Executable files** create a new process when executed,
+- « .dll »: **Dynamic Link Library files** are called by an executable in order to provide re-usable classes and methods.
 </div>
 
-Traffic analysis permits to obtain the structure of Cisco AnyConnect IPC messages .The structure is : Type (2 bytes) – Longueur (2 bytes) – Value (variable). It is now possible to parse the binary content, and to read the field values (ASCII encoding).
+Traffic analysis permits to obtain the structure of Cisco AnyConnect IPC messages. The structure is : Type (2 bytes) – Longueur (2 bytes) – Value (variable). It is now possible to parse the binary content, and to read the field values (ASCII encoding).
 
 <div class="notice--success" markdown="1">
 **Useful analysis tools:**
@@ -39,7 +39,7 @@ Traffic analysis permits to obtain the structure of Cisco AnyConnect IPC message
 
 ## CVE-2020-3153
 
-This modellings details the timeline of the attack.
+This modelling details the timeline of the attack.
 
 {% include gallery id="gallery1" type="center" %}
 

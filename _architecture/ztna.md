@@ -29,7 +29,7 @@ In a traditional castle-and-moat architecture, remote users often get access to 
 
 ## Legacy Local Network Access Control (NAC)
 
-In a traditional castle-and-moat architecture, internal users of the network are often treated differently from remote users. They are granted access to the internal network only if the **Network Access Control (NAC)** authentication is successful. A Radius server often provides this feature. Once the user is authorized inside, he often faces a flat network with no internal segmentation. And that again, is open-bar for any attacker !
+In a traditional castle-and-moat architecture, internal users of the network are often treated differently from remote users. They are granted access to the internal network only if the **Network Access Control (NAC)** authentication is successful. A Radius server often provides this feature. Once the user is authorized inside, he often faces a flat network with no internal segmentation. And that again, is open-bar for any attacker!
 
 {% include gallery id="gallery2" type="center" %}
 

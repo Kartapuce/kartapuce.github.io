@@ -29,7 +29,7 @@ Authentication within a Windows domain relies on the **NTLM** or **Kerberos** pr
 - a software policy
 </div>
 
-In this example, let's consider the user Alice who tries to authenticate ! We detail the authentication scheme for:
+In this example, let's consider the user Alice who tries to authenticate! We detail the authentication scheme for:
 - **interactive logon:** the user provides inputs for authentication against a server or a Domain Controller.
 - **network logon:** the authentication performed by the user as part of interactive logon is used again to log the user on another resource.
 

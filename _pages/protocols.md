@@ -10,4 +10,4 @@ sidebar:
   nav: "protocols"
 ---
 
-This page contains illustrations of widely used protocols. Have fun ! :wink:
+This page contains illustrations of widely used protocols. Have fun! :wink:

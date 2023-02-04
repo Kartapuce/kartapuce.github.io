@@ -27,7 +27,7 @@ gallery6:
     image_path: assets/images/web/ssrf.png
 ---
 
-The **Open Web Application Security Project (OWASP)** Top 10 is a must-known for current most critical security risks on web applications. Let's review some of them, which may be hard to properly explain without some drawing ! :paintbrush:
+The **Open Web Application Security Project (OWASP)** Top 10 is a must-known for current most critical security risks on web applications. Let's review some of them, which may be hard to properly explain without some drawing! :paintbrush:
 
 ## Web Application Security Risks
 
@@ -45,7 +45,7 @@ An attacker tricks the victim into submitting a malicious request on a web appli
 
 *Category:* Injection  
 *Type:* **SQL / LDAP / CRLF injection**  
-The attacks takes advantage of poor user-supplied data sanitizing and validation to perform undesired actions on the applications (query, input, deletion of data in databases, log files…).
+The attack takes advantage of poor user-supplied data sanitizing and validation to perform undesired actions on the applications (query, input, deletion of data in databases, log files…).
 
 {% include gallery id="gallery3" type="center" %}
 
@@ -68,5 +68,5 @@ Due to poor sanitazing and validation of client-supplied data, the attacker coer
 
 {% include gallery id="gallery6" type="center" %}
 
-**Note:** Based on original learning material from [OWASP Top 10](https://owasp.org/www-project-top-ten/) ranking. The original ranking is much more detailed: go for it !
+**Note:** Based on original learning material from [OWASP Top 10](https://owasp.org/www-project-top-ten/) ranking. The original ranking is much more detailed: go for it!
 {: .notice--info}
