@@ -88,6 +88,7 @@ body {
 }
 
 .page__content {
+  text-align: justify;
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
@@ -174,6 +175,10 @@ body {
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
+}
+
+.sidebar__right {
+  text-align: left;
 }
 
 .page__hero {
