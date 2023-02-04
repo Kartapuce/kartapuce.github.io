@@ -21,6 +21,8 @@ protocols:
         url: /protocols/saml
       - title: "NTLMv2 and Kerberos"
         url: /protocols/ntlm
+      - title: "Authentication schemes"
+        url: /protocols/pass
         
 architecture:
   - title: Architecture topics
