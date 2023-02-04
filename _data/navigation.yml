@@ -37,6 +37,8 @@ architecture:
         url: /architecture/secure smtp infrastructure
       - title: "From VPN to ZTNA"
         url: /architecture/ztna
+      - title: "Zero Trust"
+        url: /architecture/zero trust
         
 vulnerabilities:
   - title: Major vulnerabilities
