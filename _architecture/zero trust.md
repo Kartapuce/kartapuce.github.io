@@ -28,4 +28,4 @@ The blue zone represents the trusted area. The black line demarcates the interna
 {% include gallery id="gallery1" type="center" %}
 
 **Note:** A review of the migration towards Zero Trust has been performed by the [ANSSI](https://www.ssi.gouv.fr/agence/publication/le-modele-zero-trust/).
-{: .notice--notice}
+{: .notice--info}
