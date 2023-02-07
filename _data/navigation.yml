@@ -39,7 +39,9 @@ architecture:
         url: /architecture/ztna
       - title: "Zero Trust"
         url: /architecture/zero trust
-        
+      - title: "Virtualization"
+        url: /architecture/virtualization  
+           
 vulnerabilities:
   - title: Major vulnerabilities
     children:
