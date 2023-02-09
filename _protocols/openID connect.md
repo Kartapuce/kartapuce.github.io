@@ -17,7 +17,7 @@ In order to simplify the access to data, information systems tend to:
 - centralize the authentication of users in Identity Providers (such as Facebook Connect),
 - facilitate exchanges of data between applications.
 
-OpenID Connect adds an authentication layer on top of OAuth2.0, and normalize the way to obtain basic information about the user.
+OpenID Connect adds an authentication layer on top of [OAuth2.0](/protocols/oAuth2), and normalize the way to obtain basic information about the user.
 
 ## Use Case
 

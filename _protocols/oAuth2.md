@@ -29,7 +29,7 @@ For each data exchange, queries are in blue, and answer are in green.
 
 {% include gallery id="gallery1" type="center" %}
 
-**Note:** Pseudo-Authentication is a twisted use-case of OAuth 2.0 for authentication. The client (Garmin) authenticates a User (Alice) by obtaining the authorization to retrieve some dumb info (such as Alice name on Facebook) from the resource server (Facebook). If it is successful, the Client considers that the User properly authenticated on the Authorization server (Facebook Identity), and allows access to the application. This is not considered secure. Pseudo-Authentication is a twisted use-case of OAuth for authentication. OpenID Connect is a good alternative for combining authentication and delegated identities.
+**Note:** Pseudo-Authentication is a twisted use-case of OAuth 2.0 for authentication. The client (Garmin) authenticates a User (Alice) by obtaining the authorization to retrieve some dumb info (such as Alice name on Facebook) from the resource server (Facebook). If it is successful, the Client considers that the User properly authenticated on the Authorization server (Facebook Identity), and allows access to the application. This is not considered secure. Pseudo-Authentication is a twisted use-case of OAuth for authentication. [OpenID Connect](/protocols/openID connect) is a good alternative for combining authentication and delegated identities.
 {: .notice--warning}
 
 **Note:** Based on original learning material from [Auth0](https://auth0.com/docs) engineers.
