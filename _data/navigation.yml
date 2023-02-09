@@ -11,37 +11,37 @@ main:
 protocols:
   - title: List of protocols
     children:
-      - title: "OpenVPN"
-        url: /protocols/openVPN
-      - title: "OpenID Connect"
-        url: /protocols/openID connect
-      - title: "OAuth 2.0"
-        url: /protocols/oAuth2
-      - title: "SAML 2.0"
-        url: /protocols/saml
+      - title: "Authentication schemes"
+        url: /protocols/authentication
       - title: "NTLMv2 and Kerberos"
         url: /protocols/ntlm
-      - title: "Authentication schemes"
-        url: /protocols/pass
-        
+      - title: "OAuth 2.0"
+        url: /protocols/oAuth2
+      - title: "OpenID Connect"
+        url: /protocols/openID connect
+      - title: "OpenVPN"
+        url: /protocols/openVPN
+      - title: "SAML 2.0"
+        url: /protocols/saml
+
 architecture:
   - title: Architecture topics
     children:
-      - title: "Secure internet gateway"
-        url: /architecture/secure internet gateway
       - title: "Secure Access Service Edge"
         url: /architecture/sase
       - title: "Secure DNS infrastructure"
         url: /architecture/secure dns infrastructure
+      - title: "Secure internet gateway"
+        url: /architecture/secure internet gateway
       - title: "Secure SMTP infrastructure"
         url: /architecture/secure smtp infrastructure
-      - title: "From VPN to ZTNA"
-        url: /architecture/ztna
+      - title: "Virtualization"
+        url: /architecture/virtualization
       - title: "Zero Trust"
         url: /architecture/zero trust
-      - title: "Virtualization"
-        url: /architecture/virtualization  
-           
+      - title: "Zero Trust Network Access"
+        url: /architecture/ztna
+
 vulnerabilities:
   - title: Major vulnerabilities
     children:

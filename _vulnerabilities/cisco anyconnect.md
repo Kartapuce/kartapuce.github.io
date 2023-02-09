@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-title: "CVE-2020-3153 Cisco AnyConnect"
+title: "Cisco AnyConnect"
 excerpt: "Focus on CVE-2020-3153"
 sidebar:
   nav: "vulnerabilities"
@@ -12,7 +12,7 @@ gallery1:
     image_path: assets/images/CVE-2020-3153 Cisco Anyconnect.png
 ---
 
-This modelling illustrates how the combination of several vulnerabilities on Cisco AnyConnect allows a low-priv attacker to obtain an admin command prompt.
+This modelling illustrates how the combination of several vulnerabilities on Cisco AnyConnect allows a low-priv attacker to obtain an admin command prompt (CVE-2020-3153).
 
 ## Some backgroung about Cisco AnyConnect
 
@@ -22,7 +22,7 @@ Cisco AnyConnect contains several executables and dll files, which exchange data
 - vpndownloader.exe
 - anyconnect.exe
 
-<div class="notice--success" markdown="1">
+<div class="notice--warning" markdown="1">
 **Quick reminder:** Executables and DLL:
 - « .exe »: **Executable files** create a new process when executed,
 - « .dll »: **Dynamic Link Library files** are called by an executable in order to provide re-usable classes and methods.
@@ -30,7 +30,7 @@ Cisco AnyConnect contains several executables and dll files, which exchange data
 
 Traffic analysis permits to obtain the structure of Cisco AnyConnect IPC messages. The structure is : Type (2 bytes) – Longueur (2 bytes) – Value (variable). It is now possible to parse the binary content, and to read the field values (ASCII encoding).
 
-<div class="notice--success" markdown="1">
+<div class="notice--warning" markdown="1">
 **Useful analysis tools:**
 - Analysis of messages over the network (including IPC) with Wireshark
 - Analysis of Windows activities (processus, registres…) with  Windows Sysinternals Process Monitor

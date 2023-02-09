@@ -21,7 +21,7 @@ gallery3:
 
 Authentication within a Windows domain relies on the **NTLM** or **Kerberos** protocols. NTLMv2 is deprecated, but it is still used as a backup when Kerberos fails.
 
-<div class="notice--success" markdown="1">
+<div class="notice--warning" markdown="1">
 **Note:** Active Directory is a solution developed by Microsoft for the management of an information system. It contains:
 - a resource directory service (LDAP)
 - an authentication scheme (Kerberos)
