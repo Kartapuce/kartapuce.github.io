@@ -6,7 +6,7 @@ excerpt: "Move your secure gateway to the cloud."
 sidebar:
   nav: "architecture"
 header:
-  teaser: /assets/images/SASE.png
+  teaser: /assets/images/SASE-small.png
 gallery1:
   - url: /assets/images/SASE.png
     image_path: assets/images/SASE.png

@@ -6,7 +6,7 @@ excerpt: "The magic of OpenID Connect."
 sidebar:
   nav: "protocols"
 header:
-  teaser: /assets/images/OpenID Connect.png
+  teaser: /assets/images/OpenID Connect-small.png
 gallery1:
   - url: /assets/images/OpenID Connect.png
     image_path: assets/images/OpenID Connect.png

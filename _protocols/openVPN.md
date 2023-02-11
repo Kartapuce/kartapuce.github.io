@@ -6,7 +6,7 @@ excerpt: "Check out OpenVPN configurations."
 sidebar:
   nav: "protocols"
 header:
-  teaser: /assets/images/openVPN/NtoN routing physical.png
+  teaser: /assets/images/openVPN/NtoN routing physical-small.png
 toc: true
 toc_label: "openVPN"
 toc_icon: "cog"

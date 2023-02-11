@@ -6,7 +6,7 @@ excerpt: "Deep dive into the layers of a secure internet gateway."
 sidebar:
   nav: "architecture"
 header:
-  teaser: /assets/images/Secure internet gateway.png
+  teaser: /assets/images/Secure internet gateway-small.png
 gallery1:
   - url: /assets/images/Secure internet gateway.png
     image_path: assets/images/Secure internet gateway.png

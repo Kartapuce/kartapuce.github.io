@@ -6,7 +6,7 @@ excerpt: "Focus on CVE-2020-3153"
 sidebar:
   nav: "vulnerabilities"
 header:
-  teaser: /assets/images/CVE-2020-3153 Cisco Anyconnect.png
+  teaser: /assets/images/CVE-2020-3153 Cisco Anyconnect-small.png
 gallery1:
   - url: /assets/images/CVE-2020-3153 Cisco Anyconnect.png
     image_path: assets/images/CVE-2020-3153 Cisco Anyconnect.png

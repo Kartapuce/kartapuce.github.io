@@ -6,7 +6,7 @@ excerpt: "Everything you've always wanted to know about SMTP."
 sidebar:
   nav: "architecture"
 header:
-  teaser: /assets/images/Secure SMTP infrastructure.png
+  teaser: /assets/images/Secure SMTP infrastructure-small.png
 gallery1:
   - url: /assets/images/Secure SMTP infrastructure.png
     image_path: assets/images/Secure SMTP infrastructure.png

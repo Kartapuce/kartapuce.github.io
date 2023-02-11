@@ -6,7 +6,7 @@ excerpt: "A long journey towards Zero Trust."
 sidebar:
   nav: "architecture"
 header:
-  teaser: /assets/images/zero trust.png
+  teaser: /assets/images/zero trust-small.png
 gallery1:
   - url: /assets/images/zero trust.png
     image_path: assets/images/zero trust.png

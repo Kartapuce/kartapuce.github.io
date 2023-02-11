@@ -6,7 +6,7 @@ excerpt: "Federated identities with Security Assertion Markup Language."
 sidebar:
   nav: "protocols"
 header:
-  teaser: /assets/images/SAML.png
+  teaser: /assets/images/SAML-small.png
 gallery1:
   - url: /assets/images/SAML.png
     image_path: assets/images/SAML.png

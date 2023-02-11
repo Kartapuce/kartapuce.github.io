@@ -6,7 +6,7 @@ excerpt: "Delegated identities with Open Authorization 2.0."
 sidebar:
   nav: "protocols"
 header:
-  teaser: /assets/images/OAuth.png
+  teaser: /assets/images/OAuth-small.png
 gallery1:
   - url: /assets/images/OAuth.png
     image_path: assets/images/OAuth.png
