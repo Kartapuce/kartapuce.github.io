@@ -8,6 +8,7 @@ entries_layout: grid
 classes: wide
 sidebar:
   nav: "vulnerabilities"
+excerpt: "Modelling of some major CVEs."
 ---
 
-Get the global picture about some major CVEs. Find out how the combination of several vulnerabilities can make you root. :innocent: Please keep this knowledge to achieve better protection of your IT systems.
+Get the global picture about some major CVEs. Find out how the combination of several vulnerabilities can make you root. :innocent: This content is only provided in order to achieve better protection of your IT systems.

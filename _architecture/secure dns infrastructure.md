@@ -6,7 +6,7 @@ excerpt: "Everything you've always wanted to know about DNS."
 sidebar:
   nav: "architecture"
 header:
-  teaser: /assets/images/Secure DNS infrastructure.png
+  teaser: /assets/images/Secure DNS infrastructure-small.png
 gallery1:
   - url: /assets/images/Secure DNS infrastructure.png
     image_path: assets/images/Secure DNS infrastructure.png
