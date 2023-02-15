@@ -6,7 +6,7 @@ classes: wide
 title: "About"
 ---
 
-A nice drawing is often more efficient than a long text. It is probably not the best way to start learning about a new topic from scratch, but it is for sure a quick reminder of technical discussions. This site regroups some of my drawings. Hopefully I won't lose them anymore! I hope it can help! :smile:
+A nice drawing is often more efficient than a long text. It is probably not the best way to start learning about a new topic from scratch, but it is for sure a quick reminder of technical discussions. This site regroups some of my drawings. Hopefully I won't lose them anymore! I hope it can help! :blush:
 
 ## Who am I?
 

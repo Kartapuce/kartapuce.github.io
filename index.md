@@ -21,13 +21,13 @@ feature_row:
   - image_path: /assets/images/protocols.png
     alt: "placeholder image 2"
     title: "Protocols"
-    excerpt: "Go for a review of popular protocols."
+    excerpt: "Analysis of several popular protocols."
     url: "protocols"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/vulnerabilities.png
     title: "Vulnerabilities"
-    excerpt: "Time is running out but TTPs remain. :sunglasses:"
+    excerpt: "Time is running out but TTPs remain."
     url: "vulnerabilities"
     btn_label: "Read More"
     btn_class: "btn--primary"
