@@ -27,6 +27,8 @@ protocols:
 architecture:
   - title: Architecture topics
     children:
+      - title: "Detection & Response"
+        url: /architecture/detect and respond
       - title: "Network Access Control"
         url: /architecture/network access control
       - title: "Secure Access Service Edge"
