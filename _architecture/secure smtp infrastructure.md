@@ -36,8 +36,5 @@ Let's have a look at all the operations that happen under the wood! :stuck_out_t
 
 {% include gallery id="gallery1" type="center" %}
 
-**Disclaimer:** These are obviously not the real architecture and IP addresses for reaching to a friend on GMail!
-{: .notice--warning}
-
 **Note:** Based on original learning material from [ANSSI](https://www.ssi.gouv.fr/) documentation *Recommandations relatives à l’interconnexion d’un système d’information à Internet*.
 {: .notice--info}
