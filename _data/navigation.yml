@@ -23,6 +23,8 @@ protocols:
         url: /protocols/openVPN
       - title: "SAML 2.0"
         url: /protocols/saml
+      - title: "TLS 1.3"
+        url: /protocols/tls  
 
 architecture:
   - title: Architecture topics
