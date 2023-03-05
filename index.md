@@ -27,7 +27,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/vulnerabilities.png
     title: "Vulnerabilities"
-    excerpt: "Time is running out but TTPs remain."
+    excerpt: "CVEs, CVEs everywhere."
     url: "vulnerabilities"
     btn_label: "Read More"
     btn_class: "btn--primary"
