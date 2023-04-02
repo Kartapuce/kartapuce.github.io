@@ -29,6 +29,8 @@ protocols:
 architecture:
   - title: Architecture topics
     children:
+      - title: "Cloud services"
+        url: /architecture/cloud services
       - title: "Detection & Response"
         url: /architecture/detect and respond
       - title: "Network Access Control"
