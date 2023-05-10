@@ -43,6 +43,8 @@ architecture:
         url: /architecture/secure internet gateway
       - title: "Secure SMTP infrastructure"
         url: /architecture/secure smtp infrastructure
+      - title: "Storage infrastructure"
+        url: /architecture/storage
       - title: "Virtualization"
         url: /architecture/virtualization
       - title: "Zero Trust"

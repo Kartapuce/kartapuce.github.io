@@ -11,7 +11,7 @@ I try to keep it simple, so it is probably not self-sufficient to fully understa
 
 ## Who am I?
 
-I am a system architect, currently working in the space industry. This website regroups some of my cybersecurity cheat-sheets. Hopefully I won't lose them anymore! I hope it helps!
+I am a cybersecurity architect, currently working in the insurance & banking industry. This website regroups some of my cybersecurity cheat-sheets. Hopefully I won't lose them anymore! I hope it helps!
 
 ## Quick tips for students
 
