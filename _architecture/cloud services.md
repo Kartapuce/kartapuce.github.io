@@ -54,8 +54,7 @@ The first aspect concerns the sharing strategy. In order to provide scalable res
 ### Hosting strategy
 
 The second aspect concerns the hosting strategy.
-- **On-premise datacentre**: Hosting your own datacentre without cloud services. *Sorry, not interested in your cloudy business.* :european_castle:
-- **On-premise private cloud**: Private cloud directly hosted within the customer facility. *I want to keep it home.*
+- **On-premise private cloud**: Private cloud directly hosted and managed within the customer facility. In some way, it is similar to an on-premise traditional datacenter, but it is architected with cloud technologies. *I want to keep it home.* :european_castle:
 - **Hosted cloud**: The most common hosting strategy, where services are directly hosted by the CSP. *I’ll just handle it remotely.*
 - **Multi-cloud**: In order to avoid vendor lock-in, the customer decides to benefit from several CSP services. *I still want it all.* :stuck_out_tongue_winking_eye:
 

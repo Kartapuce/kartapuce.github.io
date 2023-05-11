@@ -9,16 +9,16 @@ header:
   teaser: /assets/images/storage/backups-small.png
 gallery1:
   - url: /assets/images/storage/technologies.png
-    image_path: assets/images/storage/technologies-small.png
+    image_path: assets/images/storage/technologies.png
 gallery2:
   - url: /assets/images/storage/VM storage.png
-    image_path: assets/images/storage/VM storage-small.png
+    image_path: assets/images/storage/VM storage.png
 gallery3:
   - url: /assets/images/storage/backups.png
-    image_path: assets/images/storage/backups-small.png
+    image_path: assets/images/storage/backups.png
 gallery4:
   - url: /assets/images/storage/encryption.png
-    image_path: assets/images/storage/encryption-small.png
+    image_path: assets/images/storage/encryption.png
 ---
 
 Ransomwares are a major threat for companies. Let’s get prepared before the Splash screen pops up. :stuck_out_tongue:
