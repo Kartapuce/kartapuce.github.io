@@ -21,7 +21,7 @@ gallery4:
     image_path: assets/images/storage/encryption-small.png
 ---
 
-Ransomwares are a major threat for companies. Let’s get prepared before we see the Splash screen pops up. :stuck_out_tongue:
+Ransomwares are a major threat for companies. Let’s get prepared before the Splash screen pops up. :stuck_out_tongue:
 
 ## Data storage background
 
@@ -36,11 +36,10 @@ Storage media use different technologies to store data:
 
 Storage technologies can be identified based on the **location of the storage resource**:
 - **Direct-attached storage (DAS)**: internal storage of the computer (attached to a bus), or external storage directly attached to a port (serial, USB). Such technology tend to create SPOF, and does not support multiple connections.
-- **Networked storage**: storage device connected to the server through a network:
-    - **Network-Attached Storage (NAS)**: uses common existing network (storage resource is just a node in the LAN).
-    - **Storage Area Network (SAN)**: uses a dedicated high-speed storage network. :rocket:
+- **Network-Attached Storage (NAS)**: storage devices connected with a common existing network (storage resource is just a node in the LAN).
+- **Storage Area Network (SAN)**: storage devices connected with a dedicated high-speed storage network. :rocket:
 - **Cloud storage**: data hosted by a CSP, and accessed through APIs.
-- **Hyper-Converged Storage**: the individual DAS storage of each host within the **Hyper-Converged Infrastructure (HCI)** are virtualized to build up a common storage pool.
+- **Hyper-Converged Storage**: the individual DAS storage of each host within the Hyper-Converged Infrastructure (HCI) are virtualized to build up a common storage pool.
 
 Storage technologies can also be identified based on the **storage type**:
 - **File storage**: storage resources are presented as files in a file system (usually used in NAS technologies). :file_folder:
