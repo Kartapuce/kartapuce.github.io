@@ -91,6 +91,7 @@ Several operations can help mitigating the risk of data loss:
 **Note:** :no_good:
 - Snapshots are NOT backups! Snapshots only copy the data that changed from the base source data, in order to perform storage-efficient versioning of data. But if the base disk (“.vmdk” and “-base.vmdk” files), or an intermediate snapshot (“-00000X.vmdk” and “-00000X-delta.vmdk” files) is corrupted, then all the operational data is lost.
 - RAID mirroring is NOT backup! Redundant Array of Independent Disks (RAID) is a storage virtualization technology used to improve read / writes performances. But it does not provide enough hardware independence to be used for backups.
+- Synchronization services are NOT backup ! OneDrive and Google Drive aim at storing and synchronizing files, in order to make them available from multiple clients. But if a file is deleted or encrypted, it is going to be replicated by the service. :monkey:
 </div>
 
 ## Data confidentiality
