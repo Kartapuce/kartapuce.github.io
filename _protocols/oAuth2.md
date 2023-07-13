@@ -6,10 +6,13 @@ excerpt: "Delegated identities with Open Authorization 2.0."
 sidebar:
   nav: "protocols"
 header:
-  teaser: /assets/images/OAuth-small.png
+  teaser: /assets/images/oauth/OAuth Authorization Code-small.png
 gallery1:
-  - url: /assets/images/OAuth.png
-    image_path: assets/images/OAuth.png
+  - url: /assets/images/oauth/OAuth Authorization Code.png
+    image_path: assets/images/oauth/OAuth Authorization Code.png
+gallery2:
+  - url: /assets/images/oauth/OAuth Client Credentials.png
+    image_path: assets/images/oauth/OAuth Client Credentials.png
 ---
 ## Introduction
 
@@ -27,7 +30,17 @@ In this example, the Strava authentication page itself performs the authorizatio
 Let's see how the magic happens with OAuth 2.0 protocol. Make sure to properly follow the timeline!
 For each data exchange, queries are in blue, and answer are in green.
 
+### Authorization Code flow
+
+In the **Authorization Code flow**, the Client Application and the Resource Owner are different entities.
+
 {% include gallery id="gallery1" type="center" %}
+
+### Client Credentials flow
+
+In the **Client Credentials flow**, the Client Application and the Resource Owner are the same entity.
+
+{% include gallery id="gallery2" type="center" %}
 
 **Note:** Pseudo-Authentication is a twisted use-case of OAuth 2.0 for authentication. The client (Garmin) authenticates a User (Alice) by obtaining the authorization to retrieve some dumb info (such as Alice name on Facebook) from the resource server (Facebook). If it is successful, the Client considers that the User properly authenticated on the Authorization server (Facebook Identity), and allows access to the application. This is not considered secure. Pseudo-Authentication is a twisted use-case of OAuth for authentication. [OpenID Connect](/protocols/openID connect) is a good alternative for combining authentication and delegated identities.
 {: .notice--warning}
