@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guillaume Ryckebusch"
+  name             : "Guillaume Ryckebusch, CISSP"
   avatar           : "/assets/images/picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Cybersecurity architect, CISSP"
+  bio              : "Cybersecurity architect"
   location         : "Québec, Canada"
   email            :
   links:
