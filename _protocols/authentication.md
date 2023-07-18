@@ -26,7 +26,7 @@ All the authentication schemes rely on one of 3 authentication means:
 
 ## Type 1: « What I know » :zipper_mouth_face:
 
-Something than I can remember. The easiest example is the password. An API Key may also be used, but it is stored in a safe when its size is too long to remember. While it is by far the most common type of authentication, it is also considered as the weakest (weak passwords, reused on several applications...).
+Something that I can remember. The easiest example is the password. An API Key may also be used, but it is stored in a safe when its size is too long to remember. While it is by far the most common type of authentication, it is also considered as the weakest (weak passwords, reused on several applications...).
 
 ## Type 2: « What I have » :iphone:
 
