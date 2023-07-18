@@ -13,8 +13,8 @@ gallery1:
 ---
 
 Let's put some segmentation in our network, and review all the steps towards **Zero Trust**:
-- Flat network: *That's just Open-bar man!* :beer:
-- Perimeter-based segmentation: *802.1X and we're good to go.*
+- Open network: *That's just Open-bar man!* :beer:
+- Perimeter-based segmentation: *IPsec, 802.1X, and we're good to go.*
 - Macro-segmentation: *Choose your VLAN wisely.* :detective: 
 - Clustered segregation: *So much stuff behind that wall.*
 - Micro-segmentation: *Let's get selective.*
@@ -23,7 +23,7 @@ Let's put some segmentation in our network, and review all the steps towards **Z
 **Note:** Each step provides cumulative additional protections to enforce.
 {: .notice--warning}
 
-The blue zone represents the trusted area. The black line demarcates the internal network.
+The blue zone represents the trusted area. The black line demarcates the internal network. The Firewall icon represents the authentication and authorization process.
 
 {% include gallery id="gallery1" type="center" %}
 

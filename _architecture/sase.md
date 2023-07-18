@@ -16,6 +16,8 @@ gallery1:
 - **Network-as-a-Service (NaaS)** is the provision of network services from a cloud provider. It aims at replacing private VPNs and MPLS connections. It relies a lot on Software Defined Networking technologies.
 - **Network-Security-as-a-Service (NSaaS)** is the provision of network security services from a cloud provider. The security aspect of SASE is also called **Security Service Edge (SSE)**.
 
+This modelling highlights the move from traditional on-premise features, to cloud-native solutions. Just follow the arrows ! :stuck_out_tongue:
+
 {% include gallery id="gallery1" type="center" %}
 
 **Note:** A Wide Area Network (WAN) connects Local Area Networks (LANs) across long distances. In order to speed up connections, many companies use specific **Multi Protocol Label Switching (MPLS)** hardware instead of classic routing.
