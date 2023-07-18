@@ -24,15 +24,11 @@ All the authentication schemes rely on one of 3 authentication means:
 **Note:** A lot of authentication schemes (protocols) exist for authentication. Some of them rely on direct transmission of the secret, while others use a challenge – response pattern. An authentication scheme (protocol) may allow for several authentication means. For example, Kerberos may work with both symmetric or asymmetric cryptography. Depending on the protocol, the authentication may be performed at a different OSI layer (application layer for basic authentication, transport layer for TLS, datalink layer for Radius 802.1X).
 {: .notice--warning}
 
-## « What I know » :zipper_mouth_face:
+## Type 1: « What I know » :zipper_mouth_face:
 
-Something than I can remember. The easiest example is the password. An API Key may also be used, but it is stored in a safe when its size is too long to remember.
+Something than I can remember. The easiest example is the password. An API Key may also be used, but it is stored in a safe when its size is too long to remember. While it is by far the most common type of authentication, it is also considered as the weakest (weak passwords, reused on several applications...).
 
-## « Who I am » :eyes:
-
-A biometric parameter: a shared measurement (the position of points on a fingerprint or a face, the modulation of a voice…). But it is less secure than a password since it is publicly available to anyone, and it is not revokable.
-
-## « What I have » :iphone:
+## Type 2: « What I have » :iphone:
 
 A lot of different technologies already exist:
 - **TOTP (Time-Based OTP)**: nonce incremented every 30 seconds (Google Authenticator)
@@ -42,6 +38,10 @@ A lot of different technologies already exist:
 - **Chip card**: private key securely stored in a physical device, non exportable.
 
 Authentication devices may use different protocols for exchanging information (bluetooth, NFC, USB…).
+
+## Type 3: « Who I am » :eyes:
+
+A biometric parameter: a shared measurement (the position of points on a fingerprint or a face, the modulation of a voice…). It is considered more secure than a password, but it is not revokable, and may be publicly available to anyone.
 
 ## Multi-Factor Authentification :zipper_mouth_face: :heavy_plus_sign: :eyes: :heavy_plus_sign: :iphone:
 
