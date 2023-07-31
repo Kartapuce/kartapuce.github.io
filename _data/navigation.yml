@@ -33,6 +33,8 @@ architecture:
         url: /architecture/cloud services
       - title: "Detection & Response"
         url: /architecture/detect and respond
+      - title: "Identity and Access Management"
+        url: /architecture/iam
       - title: "Network Access Control"
         url: /architecture/network access control
       - title: "Secure Access Service Edge"

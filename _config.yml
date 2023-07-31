@@ -130,7 +130,10 @@ author:
       # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/guillaume-ryckebusch-bb73647a"  
+      url: "https://www.linkedin.com/in/guillaume-ryckebusch-bb73647a"
+    - label: "CISSP"
+      icon: "fas fa-fw fa-id-badge"
+      url: "https://www.credly.com/badges/35641811-05d8-4b7f-8df1-fb1a6bb1eca7"  
 
 # Site Footer
 footer:
