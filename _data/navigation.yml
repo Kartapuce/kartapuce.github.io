@@ -31,6 +31,8 @@ architecture:
     children:
       - title: "Cloud services"
         url: /architecture/cloud services
+      - title: "Containers and orchestration"
+        url: /architecture/containers  
       - title: "Detection & Response"
         url: /architecture/detect and respond
       - title: "Identity and Access Management"
