@@ -26,9 +26,9 @@ The Kartapuce IT infrastructure is made of al lot of **hardware and software res
 Thanks to **Infrastructure as Code (IaC)**, all the provisioning and management of the IT infrastructure is achieved through code in stead of manual processes. :books: By setting up all these resources in configuration files, the infrastructure is easier to edit, version, and distribute, and it provides a modular approach using reusable building blocks. Kartapuce realized very soon that writing its own deployments scripts required a lot of coding skills, but the shift to dedicated IaC tools permitted to gain velocity and money, by natively supporting a lot of CSP providers and IT products manufacturers. No more configuration drift due to unmanaged operations on the IT! :pray:
 
 Basically, the IaC tools can be divided into 3 main categories:
-- **Infrastructure Provisioning:** the process of creating and provisioning the native immutable IT infrastructure. It is achieved with tools such as Terraform or CloudFormation.
-- **Configuration Management:** the process of defining and maintaining a consistent mutable configuration across the IT infrastructure. :clipboard: It is achieved with tools such as Ansible, Chef, or Puppet.
-- **Server Templating:** the process of creating immutable images for our VMs and Containers, that can easily be distributed and deployed. :whale: It is achieved with tools such as [Docker](/architecture/containers) and Packer, and is enhanced by orchestration tools such as Kubernetes and Docker Swarm.
+- **Infrastructure Provisioning**: the process of creating and provisioning the native immutable IT infrastructure. It is achieved with tools such as Terraform or CloudFormation.
+- **Configuration Management**: the process of defining and maintaining a consistent mutable configuration across the IT infrastructure. :clipboard: It is achieved with tools such as Ansible, Chef, or Puppet.
+- **Server Templating**: the process of creating immutable images for our VMs and Containers, that can easily be distributed and deployed. :whale: It is achieved with tools such as [Docker](/architecture/containers) and Packer, and is enhanced by orchestration tools such as Kubernetes and Docker Swarm.
 
 ## Ansible for Configuration Management
 

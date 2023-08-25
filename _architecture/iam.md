@@ -20,7 +20,8 @@ gallery2:
 **Identity and Access Management** is the process of managing digital identities and access to the resources. In a few words, make sure that “*The right individuals access the right resources at the right time for the right reasons*”. :cop:
 
 This process involves the following steps:
-- **Authentication**: An entity (human or non-human) proves that it is who it claims to be. :key:
+- **Identification**: An entity (human or non-human) claims to be somebody. :loudspeaker:
+- **Authentication**: The entity proves that it is who it claims to be. :key:
 - **Authorization**: Once the subject is authenticated, a Policy Decision Point determines what is allowed. It uses its identity and permissions (roles), and can also use contextually specific access criteria such as the time, the localisation… :mag_right:
 - **Access Control**: Once the authorizations are retrieved, a Policy Enforcement Point actually allows or reject the request to access a resource.
 
