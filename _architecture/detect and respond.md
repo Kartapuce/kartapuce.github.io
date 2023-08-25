@@ -2,7 +2,7 @@
 layout: single
 author_profile: false
 title: "Detection and Response"
-excerpt: "What's going on in my realm ?"
+excerpt: "What's going on in my realm?"
 sidebar:
   nav: "architecture"
 header:
