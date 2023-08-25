@@ -15,7 +15,7 @@ I am a cybersecurity architect, currently working in the insurance & banking ind
 
 ## Quick tips for students
 
-What is it like being a system engineer in cybersecurity ?  
-A first impression on the job in 2019, at the beginning of my cybersecurity journey !
+What is it like being a system engineer in cybersecurity?  
+A first impression on the job in 2019, at the beginning of my cybersecurity journey!
 
 {% include video id="AIlkIDWxdm0" provider="youtube" %}
