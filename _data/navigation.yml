@@ -37,6 +37,8 @@ architecture:
         url: /architecture/detect and respond
       - title: "Identity and Access Management"
         url: /architecture/iam
+      - title: "Infrastructure as Code"
+        url: /architecture/infrastructure as code
       - title: "Network Access Control"
         url: /architecture/network access control
       - title: "Secure Access Service Edge"
