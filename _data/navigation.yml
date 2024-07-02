@@ -3,6 +3,8 @@ main:
     url: /architecture/
   - title: "Protocols"
     url: /protocols/
+  - title: "Standards"
+    url: /standards/
   - title: "Vulnerabilities"
     url: /vulnerabilities/
   - title: "About"
@@ -57,6 +59,22 @@ architecture:
         url: /architecture/zero trust
       - title: "Zero Trust Network Access"
         url: /architecture/ztna
+        
+standards:
+  - title: Standards
+    children:
+      - title: "MITRE ATT&CK"
+        url: /standards/mitre attack
+      - title: "NIST CSF"
+        url: /standards/nist csf
+      - title: "NIST PF"
+        url: /standards/nist pf
+      - title: "NIST RMF"
+        url: /standards/nist rmf
+      - title: "NIST SP 800-30"
+        url: /standards/nist sp 800 30  
+      - title: "NIST SP 800-39"
+        url: /standards/nist sp 800 39
 
 vulnerabilities:
   - title: Major vulnerabilities

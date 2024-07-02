@@ -133,7 +133,10 @@ author:
       url: "https://www.linkedin.com/in/guillaume-ryckebusch-bb73647a"
     - label: "CISSP"
       icon: "fas fa-fw fa-id-badge"
-      url: "https://www.credly.com/badges/35641811-05d8-4b7f-8df1-fb1a6bb1eca7"  
+      url: "https://www.credly.com/badges/35641811-05d8-4b7f-8df1-fb1a6bb1eca7"
+    - label: "AWS Solutions Architect"
+      icon: "fab fa-fw fa-aws"
+      url: "https://www.credly.com/badges/07fff61a-17cf-473c-a693-6a8f55aa3e17"
 
 # Site Footer
 footer:
@@ -205,6 +208,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   vulnerabilities:
+    output: true
+    permalink: /:collection/:path/
+  standards:
     output: true
     permalink: /:collection/:path/
 

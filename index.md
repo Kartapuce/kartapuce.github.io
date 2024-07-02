@@ -25,6 +25,12 @@ feature_row:
     url: "protocols"
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: /assets/images/standards.png
+    title: "Standards"
+    excerpt: "Let's rule this world!"
+    url: "standards"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/vulnerabilities.png
     title: "Vulnerabilities"
     excerpt: "CVEs, CVEs everywhere."

@@ -7,7 +7,7 @@ title: "About"
 ---
 
 I always draft a technical model when learning about a new cybersecurity topic. Properly modeling functional features, physical components, and data exchanges, is worth a thousand words.  
-I try to keep it simple, so it is probably not self-sufficient to fully understand the topic from scratch. But it is for sure a quick reminder of technical discussions.
+I try to keep it simple, so it is probably not self-sufficient to fully understand the topic from scratch. But it is for sure a quick reminder for technical discussions.
 
 ## Who am I?
 
