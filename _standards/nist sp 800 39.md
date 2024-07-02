@@ -41,7 +41,8 @@ NIST SP 800-39 purpose is to provide guidance for managing information security 
 
 {% include gallery id="gallery1" type="center" %}
 
-Note: Each of these 4 steps in the risk management process applies to the 3 tiers. These steps are not inherently sequential in nature.
+**Note:** Each of these 4 steps in the risk management process applies to the 3 tiers. These steps are not inherently sequential in nature.
+{: .notice--warning}
 
 ## Multitiered risk management
 
