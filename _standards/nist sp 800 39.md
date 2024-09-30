@@ -63,6 +63,7 @@ To integrate the risk management process throughout the organization, a three-ti
 The concept of **trustworthiness** can also be applied to information technology products. Trustworthiness expresses the degree to which information systems (including the information technology products from which the systems are built) can be expected to preserve the confidentiality, integrity, and availability of the information being processed, stored, or transmitted by the systems across the full range of threats. Two factors affecting the trustworthiness are:
 - **Security functionality** (the security features employed within the system). It can be obtained by employing a combination of management, operational, technical controls such as those from NIST SP 800-53.
 - **Security assurance** (grounds for confidence that the security functionality is effective in its application). It can be obtained by the actions taken by developers and implementers and assessors.  
+
 Information technology products and systems exhibiting a higher degree of trustworthiness are expected to exhibit a lower rate of latent design and implementation flaws and a higher degree of penetration resistance against a range of threats.
 
 ## Organizational culture

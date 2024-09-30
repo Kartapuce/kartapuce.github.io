@@ -6,7 +6,7 @@ excerpt: "Knowledge base of adversary tactics and techniques"
 sidebar:
   nav: "standards"
 header:
-  teaser: /assets/images/mitre/attack.png
+  teaser: /assets/images/mitre/attack-small.png
 gallery1:
   - url: /assets/images/mitre/kill chain.png
     image_path: assets/images/mitre/kill chain.png

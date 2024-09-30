@@ -46,7 +46,7 @@ Now let’s review deployment models.
 The first aspect concerns the sharing strategy. In order to provide scalable resources, CSPs may mutualize resources for several customers. In any case, the CSP remains accountable for ensuring proper isolation between customers.
 - **Public cloud**: Shared resources for all customers, in order to benefit from mutualized infrastructure. *I don’t know you, but let’s mutualize that power.* :boom:
 - **Private cloud**: Resources dedicated to one single customer, for exclusive control over the infrastructure. *I will never share my toys with you.*
-- **Community cloud**: Shared resources for selected members with the same standards. *Sorry, that’s a select club here.* :bowtie:
+- **Community cloud**: Shared resources for selected members with the same standards. *Sorry, that’s a select club here.* :guardsman:
 - **Hybrid cloud**: A mix of public, private, and community cloud, depending on the sensitivity of the data. *I want it all.*
 
 {% include gallery id="gallery2" type="center" %}
