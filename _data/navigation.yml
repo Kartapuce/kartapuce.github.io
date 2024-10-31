@@ -17,6 +17,8 @@ protocols:
         url: /protocols/authentication
       - title: "Cookies"
         url: /protocols/cookies
+      - title: "FIDO2"
+        url: /protocols/fido2  
       - title: "NTLMv2 and Kerberos"
         url: /protocols/ntlm
       - title: "OAuth 2.0"
