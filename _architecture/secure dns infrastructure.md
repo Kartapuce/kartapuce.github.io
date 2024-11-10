@@ -37,7 +37,7 @@ This modelling aims at describing the different components that are part of a **
 
 ## Use Case
 
-In this example, let's consider the user Alice. She is a valuable member of Kartapuce, and belongs to the kartapuce.com domain. Since she knows where to find instructive information, she wants to browse to the [ANSSI](https://www.ssi.gouv.fr/) website.
+In this example, let's consider the user Alice. She is a valuable member of Kartapuce, and belongs to the kartapuce.com domain. Since she knows where to find instructive information, she wants to browse to the [ANSSI](https://cyber.gouv.fr/) website.
 
 Then Alice learnt so many things, she must ping Bob who is also a member of the internal kartapuce.com domain.
 
@@ -45,8 +45,5 @@ Let's have a look at all the operations that happen under the wood! :stuck_out_t
 
 {% include gallery id="gallery1" type="center" %}
 
-**Disclaimer:** These are obviously not the real architecture and IP addresses for reaching out to the ANSSI!
-{: .notice--warning}
-
-**Note:** Based on original learning material from [ANSSI](https://www.ssi.gouv.fr/) documentation *Bonnes pratiques pour l'acquisition et l'exploitation de noms de domaine*.
+**Note:** Based on original learning material from [ANSSI](https://cyber.gouv.fr/) documentation *Bonnes pratiques pour l'acquisition et l'exploitation de noms de domaine*.
 {: .notice--info}
