@@ -17,6 +17,8 @@ protocols:
         url: /protocols/authentication
       - title: "Cookies"
         url: /protocols/cookies
+      - title: "DoT, DoH and DNSSEC"
+        url: /protocols/dot doh and dnssec
       - title: "FIDO2"
         url: /protocols/fido2  
       - title: "NTLMv2 and Kerberos"
