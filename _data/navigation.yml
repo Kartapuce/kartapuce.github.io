@@ -71,6 +71,8 @@ architecture:
 standards:
   - title: Standards
     children:
+      - title: "EBIOS RM"
+        url: /standards/ebios rm
       - title: "MITRE ATT&CK"
         url: /standards/mitre attack
       - title: "NIST CSF"
