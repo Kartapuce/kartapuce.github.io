@@ -11,9 +11,12 @@ gallery1:
   - url: /assets/images/nist csf/csf functions.png
     image_path: assets/images/nist csf/csf functions.png
 gallery2:
+  - url: /assets/images/nist csf/csf core.png
+    image_path: assets/images/nist csf/csf core.png
+gallery3:
   - url: /assets/images/nist csf/csf profiles.png
     image_path: assets/images/nist csf/csf profiles.png
-gallery3:
+gallery4:
   - url: /assets/images/nist csf/csf tiers.png
     image_path: assets/images/nist csf/csf tiers.png
 ---
@@ -42,6 +45,13 @@ The CSF Core Functions are:
 
 {% include gallery id="gallery1" type="center" %}
 
+**Note:** The CSF introduces the *Governance* function. But what does governance mean?! :flushed: The security governance is the structure needed to steer a cybersecurity program toward achieving their enterprise goals. :blossom:
+{: .notice--warning}
+
+The CSF Core functions are broken down into Categories and Subcategories. Let's review that!
+
+{% include gallery id="gallery2" type="center" %}
+
 ## CSF Profiles and Tiers
 
 The CSF Organizational Profile describe a **current** and **target** cybersecurity posture. They are used to understand, tailor, assess, prioritize, and communicate the CSF Core’s outcomes.
@@ -49,11 +59,11 @@ A **Community Profile** is a baseline of CSF outcomes that is created and publis
 
 An organization should go through the following steps to use an Organizational profile:
 
-{% include gallery id="gallery2" type="center" %}
+{% include gallery id="gallery3" type="center" %}
 
 An organization can use the **Tiers** to inform its current and target profiles. The Tiers reflect an organization’s practices for managing cybersecurity risks as partial, risk-informed, repeatable, or adaptative. The Tiers should complement the risk management methodology rather than replace it.
 
-{% include gallery id="gallery3" type="center" %}
+{% include gallery id="gallery4" type="center" %}
 
 **Note:** The CSF can be integrated with other risk management and assessment programs such as the [RMF](/standards/nist rmf) and [SP 800-30](/standards/nist sp 800 30). For an organization using the RMF, the CSF can be used to complement the RMF’s approach to selecting and prioritizing controls from the NIST SP 800-53. The CSF can be used to identify, align, and deconflict security requirements and to subsequently inform the selection of security controls for an organization. There is a traceability matrix from CSF v1.1 to SP 800-53 but it does not exist for v2 yet.
 {: .notice--warning}
