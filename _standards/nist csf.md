@@ -45,7 +45,7 @@ The CSF Core Functions are:
 
 {% include gallery id="gallery1" type="center" %}
 
-**Note:** The CSF introduces the *Governance* function. But what does governance mean?! :flushed: The security governance sets the structure needed to steer a cybersecurity program toward achieving their enterprise goals. :blossom:
+**Note:** The CSF introduces the *Governance* function. But what does governance mean?! :flushed: The security governance sets the structure needed to steer a cybersecurity program toward achieving their enterprise goals. :blossom: It specifies the strategy, the expectations, and the policies for the security program globally, and for each security function (identify, protect, detect...) individually. It also describes how this program is communicated and monitored.
 {: .notice--warning}
 
 The CSF Core functions are broken down into Categories and Subcategories. Let's review that!
