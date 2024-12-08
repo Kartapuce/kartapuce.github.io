@@ -71,6 +71,8 @@ architecture:
 standards:
   - title: Standards
     children:
+      - title: "CIS 18"
+        url: /standards/cis 18
       - title: "EBIOS RM"
         url: /standards/ebios rm
       - title: "MITRE ATT&CK"
