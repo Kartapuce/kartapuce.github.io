@@ -33,10 +33,7 @@ In this example, let's consider the user Alice who tries to authenticate! We det
 - **interactive logon:** the user provides inputs for authentication against a server or a Domain Controller.
 - **network logon:** the authentication performed by the user as part of interactive logon is used again to log the user on another resource.
 
-### Interactive logon with NTLM *(TBC)*
-
-**Note:** I've never been so sure about the clear-text password for interactive logon.
-{: .notice--warning}
+### Interactive logon with NTLM
 
 {% include gallery id="gallery1" type="center" %}
 
@@ -44,7 +41,9 @@ In this example, let's consider the user Alice who tries to authenticate! We det
 
 {% include gallery id="gallery2" type="center" %}
 
-### Interactive and network logon with Kerberos
+### Kerberos
+
+Kerberos is the successor of NTLM. And guess what? It is also broken! :monkey: Let’s review the Kerberos authentication process, and illustrate the most common attacks on Kerberos.
 
 {% include gallery id="gallery3" type="center" %}
 
