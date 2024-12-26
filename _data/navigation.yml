@@ -31,6 +31,8 @@ protocols:
         url: /protocols/openVPN
       - title: "SAML 2.0"
         url: /protocols/saml
+      - title: "SCIM and IGA"
+        url: /protocols/scim
       - title: "SOP and CORS"
         url: /protocols/sop and cors 
       - title: "TLS 1.3"

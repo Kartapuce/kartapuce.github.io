@@ -55,7 +55,7 @@ Let’s illustrate this with Kartapuce IAM architecture!
 
 A lot of new features are provided by current IAM solutions:
 - **Just-in-Time provisioning**: automate the creation of a user profile on an application during first login :boom:
-- **SCIM (System for Cross-Domain Identity Management)**: automate the transfer of information between the identity provider and the applications, in order to keep synchronized data across apps, and to automate both onboarding and offboarding of users
+- **[SCIM](/protocols/scim) (System for Cross-Domain Identity Management)**: automate the transfer of information between the identity provider and the applications, in order to keep synchronized data across apps, and to automate both onboarding and offboarding of users
 - **Self-service registration**: allow customers to self-register on an application, reset their passwords… (with features such as email verification)
 - **Progressive profiling**: incrementally collect profile data over time
 - **Just-in-Time access**: avoid giving permanent elevated privileges, by giving real-time elevated privileges for sensitive operations
