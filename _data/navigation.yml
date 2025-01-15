@@ -55,6 +55,8 @@ architecture:
         url: /architecture/network access control
       - title: "Secure Access Service Edge"
         url: /architecture/sase
+      - title: "Secure administration of IT systems"
+        url: /architecture/secure administration
       - title: "Secure DNS infrastructure"
         url: /architecture/secure dns infrastructure
       - title: "Secure internet gateway"
