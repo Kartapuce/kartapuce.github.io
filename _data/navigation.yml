@@ -85,8 +85,8 @@ standards:
         url: /standards/nist csf
       - title: "NIST PF"
         url: /standards/nist pf
-      - title: "NIST RMF"
-        url: /standards/nist rmf
+      - title: "NIST SP 800-37"
+        url: /standards/nist sp 800 37
       - title: "NIST SP 800-30"
         url: /standards/nist sp 800 30  
       - title: "NIST SP 800-39"

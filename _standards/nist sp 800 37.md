@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-title: "NIST RMF"
+title: "NIST SP 800-37"
 excerpt: "Risk Management Framework"
 sidebar:
   nav: "standards"
