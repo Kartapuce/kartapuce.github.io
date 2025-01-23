@@ -52,11 +52,15 @@ The **techniques** represent the **“how”**. It is how an adversary achieves 
 The **procedures** are specific implementation or in-the-wild use the adversary uses for techniques. For example, using PowerShell to inject into lsass.exe to dump credentials.  
 
 In addition, the following resources can be helpful for remediation:
-- The **data sources** represent the various subjects of information that can be collected by logs and sensors: firewall, active directory, application logs, network logs…  
-- The **mitigations** represent security concepts that can be used to prevent a technique from being successfully executed: audit, antivirus, network segmentation…  
+- The **data sources** represent the various subjects of information that can be collected by logs and sensors: firewall, active directory, application logs, network logs…
+- The **mitigations** represent security concepts that can be used to prevent a technique from being successfully executed: audit, antivirus, network segmentation…
 
 **Note:** Adversaries have multiple ways they can perform most techniques. The mindset and process are more important than the knowledge base. Trying to achieve 100% coverage is not the good approach.
 {: .notice--warning}
+
+## MITRE CAPEC
+
+The MITRE CAPEC (*Common Attack Pattern Enumerations and Classifications*) is **another knowledge base about adversary behavior**, that focuses on application security. Attack patterns can be classified by domains of attack (software, hardware…) or by mechanism of attack (abuse existing functionality, subvert access control…).
 
 **Note:** Based on original learning material from [MITRE ATT&CK](https://attack.mitre.org/) team.
 {: .notice--info}
