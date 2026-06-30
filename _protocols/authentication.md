@@ -60,40 +60,6 @@ In case of **multi-factor authentication** relying  on proof of knowledge and pr
 **Note:** MFA does not necessarily provide **strong authentication**. For example, a 2FA based on a password and an SMS is not secure.
 {: .notice--warning}
 
-# There is something about passwords.
-
-## Passwords are the worst! :triumph:
-
-Passwords are the most common type of authentication, however they are also poorly efficient for security.
-- New password policies are published almost every year, and always come up with changing requirements: complexity, length, rotation, reuse, passphrase… We are compelled to remember hundreds of passwords, and efficient cloud-based password managers are very often not allowed. :sob:
-- Passwords are also costly as they bully IT support teams with endless password resets. :dollar:
-- Furthermore, most of the attacks don’t even care about password complexity because they already have the full password available (black-market credential leakage exploiting reused passwords, phishing, keystroke logging, writing on a post note… :dizzy_face:). Clipping levels already protect against basic password spraying attacks on authentication forms. Complexity only protects against bruteforce attacks against stolen hash files. :page_facing_up:
-
-In the end, **passwords are not secure**.
-
-**Note:** Yet another punchline: **Hackers don’t break in, they log in!** Refer to [this excellent article](https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/your-pa-word-doesn-t-matter/ba-p/731984?country=us&culture=en-us).
-{: .notice--warning}
-
-## Hacking the MFA
-
-Not all MFA are equal. And almost all of them are **breakable**. Let's collate some efficient techniques!
-- Phishing: Kindly ask for password, PIN… or politely ask to accept a push notification :fishing_pole_and_fish:
-- Phishing: Send fake URL imitating the authentication page
-- Bruteforcing (Password, OTP…) :hammer:
-- Credential stuffing
-- Shoulder surfing :eyeglasses:
-- Use the password recovery procedure
-- Replay attacks
-- Interception (MitM on unauthenticated or plain text protocol, such as SMS, emails, HTTP…)
-- MFA fatigue (MFA bombing, MFA spamming)
-- SIM swap :iphone:
-- Abuse weak verification (false positives on fingerprints, use generative AI…)
-- Compromised end-user device (spyware such as keylogger) 
-- Post authentication token stealing
-- Capture victim physical attributes (record voice, collect fingerprint…) :paw_prints:
-- 3rd party access (rogue application with identity delegation)
-- Physical attack (coercion, with force, weapon…) :gun:
-
 ## Let’s go ~~wild~~ passwordless :dancer:
 
 The purpose of **passwordless** is to eradicate the use of passwords. The process still uses MFA, but mostly relies on authentication and biometric factors. The [FIDO2](/protocols/fido2) specifications illustrate how the combination of a possession factor (such as a hardware *Yubikey*) and a biometric factor (fingerprint, face picture) drastically improve security.

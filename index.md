@@ -33,7 +33,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/vulnerabilities.png
     title: "Vulnerabilities"
-    excerpt: "CVEs, CVEs everywhere."
+    excerpt: "Weaknesses, weaknesses everywhere."
     url: "vulnerabilities"
     btn_label: "Read More"
     btn_class: "btn--primary"
