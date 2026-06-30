@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guillaume Ryckebusch, CISSP"
+  name             : "Guillaume Ryckebusch"
   avatar           : "/assets/images/picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Cybersecurity architect"
   location         : "Québec, Canada"
@@ -134,6 +134,9 @@ author:
     - label: "CISSP"
       icon: "fas fa-fw fa-id-badge"
       url: "https://www.credly.com/badges/35641811-05d8-4b7f-8df1-fb1a6bb1eca7"
+    - label: "CISM"
+      icon: "fas fa-fw fa-id-badge"
+      url: "https://www.credly.com/badges/05a446d0-c72f-4e33-a512-c3b627be1c5c"
     - label: "AWS Solutions Architect"
       icon: "fab fa-fw fa-aws"
       url: "https://www.credly.com/badges/07fff61a-17cf-473c-a693-6a8f55aa3e17"
